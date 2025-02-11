@@ -1,0 +1,9 @@
+!packages/repositories.config
+**/packages
+**/bin
+**/obj
+**/*.csproj.user
+**/*.suo
+**/*.DotSettings.user
+**/.vs/
+**/.idea
